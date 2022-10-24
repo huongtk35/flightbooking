@@ -1,0 +1,10 @@
+postgres:
+  host: localhost
+  port: 5432
+  username: root
+  password: 12345
+  database: bookingfly
+  ssl_mode: disabled
+  time_zone: Asia/Ho_Chi_Minh
+  USER_GRPC_PORT: 9000
+  FLIGHT_GRPC_PORT: 9001
